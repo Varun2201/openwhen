@@ -38,13 +38,13 @@ export default function HomeClient({ letters }: HomeClientProps) {
               className="text-lg text-[#5c4a3a] leading-relaxed"
               style={{ fontFamily: 'Georgia, serif', fontStyle: 'italic' }}
             >
-              These letters aren't meant to be read all at once.
+              These letters aren&apos;t meant to be read all at once.
             </p>
             <p 
               className="text-lg text-[#5c4a3a] leading-relaxed"
               style={{ fontFamily: 'Georgia, serif', fontStyle: 'italic' }}
             >
-              They're little pieces of me for the days you need them.
+              They&apos;re little pieces of me for the days you need them.
             </p>
             <p 
               className="text-base text-[#5c4a3a] leading-relaxed mt-8"
