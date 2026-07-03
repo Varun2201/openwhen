@@ -5,31 +5,18 @@ emoji: "🌟"
 description: "For when self-doubt creeps in"
 ---
 
-My wonderful, beautiful person,
+Hey,
 
-Stop. Right now. Listen to me.
+If you're reading this, I'm guessing you're being a little too hard on yourself again.
 
-You are enough. You have always been enough. You will always be enough.
+So let me remind you of something.
 
-I know there are days when that voice in your head whispers otherwise. When you look at yourself and only see flaws. When you wonder if you're doing enough, being enough, achieving enough.
+You are enough.
 
-But here's the truth that I see:
+I know you don't always believe that, but I wish you could see yourself the way I see you. You're kind, caring, strong, and so much more than you give yourself credit for.
 
-You are kind in a world that sometimes isn't. You are strong even when you feel weak. You are loved more than you know.
+Please don't let one bad day or one mistake make you question your worth. It doesn't change the amazing person you are.
 
-To me, you are:
+To me, you'll always be more than enough. Not because you're perfect, but because you're you. And that's exactly who I love.
 
-- The person who makes me smile just by being you
-- Someone worth every mile of distance
-- A heart so big it makes mine feel full
-- Enough. More than enough. Everything.
-
-The world doesn't need you to be perfect. It just needs you to be you. And the you that you are is pretty incredible.
-
-On days when you don't feel like enough, remember:
-
-You're the person I chose. The person I continue to choose. The person I want to build a future with.
-
-Not because you're perfect. Because you're perfectly you.
-
-And that's exactly who I want.
+Be a little kinder to yourself today.

@@ -5,27 +5,16 @@ emoji: "💕"
 description: "For when the distance feels heavy"
 ---
 
-My love,
+Hey,
 
-I miss you too. More than words can say.
+If you're reading this, I'm guessing you're missing me. The truth is... I probably miss you just as much.
 
-I know some days the distance feels impossible. Like there's an ocean between us that no amount of video calls or text messages can bridge. Days when you just want to reach out and hold me, and the empty space beside you hurts.
+I know some days the distance feels unfair. I wish I could be there to hold your hand, annoy you, make you laugh, or simply sit beside you without saying a word.
 
-But here's what I want you to remember:
+But this distance is only temporary. One day, we won't have to say goodbye after every visit or count down the days until we meet again.
 
-Every mile between us is a mile I'd cross a thousand times over just to see your smile. Every moment we're apart is a moment I'm counting down until we're together again.
+Until then, whenever you miss me, remember that somewhere I'm probably thinking about you too and smiling at one of our memories.
 
-The distance is temporary. What we have is not.
+I can't wait until the day I don't have to miss you anymore.
 
-On days when missing me feels too heavy, I want you to:
-
-- Reread our messages
-- Look at photos of us
-- Remember that I'm probably missing you just as much right now
-- Know that every goodnight text, every "thinking of you" message, every moment we share across screens is a thread connecting us
-
-And when the missing feels like too much, close your eyes. I'm there. In every memory we've made. In every "I love you" we've whispered. In every promise we've kept.
-
-We're writing a love story, and this distance is just a chapter. Not the whole book.
-
-I love you. Across every mile. Through every moment apart. Always.
+I love you.
